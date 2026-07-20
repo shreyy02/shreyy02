@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on Voice-Based Emotion Diary -An AI powered diary that track mood patterns <br>🤖 I am currently learning Web Development <br>💬 Ask me about AI ML <br>🤝 Looking for help in growth strategies 
+<br>🤖 I am currently learning Web Development <br>💬 Ask me about AI ML <br>🤝 Looking for help in growth strategies 
 
 
 ## 🌐 Socials:
